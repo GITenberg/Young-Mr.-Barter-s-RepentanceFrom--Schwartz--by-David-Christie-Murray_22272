@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25179'
     url: http://www.gutenberg.org/2009/agents/25179
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22272#Young-Mr.-Barter-s-RepentanceFrom--Schwartz--by-David-Christie-Murray
 gutenberg_issued: '2007-08-08'
 gutenberg_type: Text
 identifiers:

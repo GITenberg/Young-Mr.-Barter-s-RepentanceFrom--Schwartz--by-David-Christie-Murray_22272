@@ -1,0 +1,29 @@
+_repo: Young-Mr.-Barter-s-RepentanceFrom--Schwartz--by-David-Christie-Murray_22272
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Murray, David Christie
+    alias: Murray, D. Christie (David Christie)
+    birthdate: 1847
+    deathdate: 1907
+    gutenberg_agent_id: '25179'
+    url: http://www.gutenberg.org/2009/agents/25179
+description: ''
+gutenberg_issued: '2007-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22272'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: 'Young Mr. Barter''s Repentance
+
+  From "Schwartz" by David Christie Murray'
+url: http://www.gutenberg.org/ebooks/22272
